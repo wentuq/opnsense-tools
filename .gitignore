@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor artifacts
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# No secrets, no build artifacts — this is a pure shell script project

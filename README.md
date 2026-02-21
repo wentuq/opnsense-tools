@@ -70,6 +70,11 @@ opnsense-rollback.sh --cancel
 
 ---
 
+## porkbun.py
+
+Native DDNS plugin for handling porkbun.com DNS updates for subdomain and bare domain.
+
+
 ## License
 
 MIT
